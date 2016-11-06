@@ -1,7 +1,7 @@
 # chez-wam
 Mon Spectacle à Domicile
 
-Note : la Startup d'Etat CHEZ WAM est en phase de prospection (elle cherche un porteur administratif)
+Note : la startup CHEZ WAM est en phase de prospection (elle cherche un porteur administratif)
 
 <http://www.chezwam.com>
 
