@@ -5,9 +5,8 @@
 title: Chez Wam
 description: |
   Vous ne trouvez pas le concert de votre artiste préféré ?
-  Programmez le !
 owner: Incubateur
-first_published: 2016 
+first_published: 2016
 email: christophe@robillard.pro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
