@@ -5,14 +5,16 @@
 title: Chez Wam
 description: |
   Vous ne trouvez pas le concert de votre artiste préféré ?
-owner: Incubateur
+owner: Christophe Robillard
 first_published: 2016
 email: christophe@robillard.pro
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.vienschezwam.org" # the base hostname & protocol for your site
+collections:
+  - collectif
 social:
   twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
+  github: https://github.com/krichtof/chez-wam
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
   google-plus-square: https://plus.google.com/u/0/+<username>
