@@ -4,9 +4,10 @@
 # Site settings
 title: Chez Wam
 description: |
-  Vous ne trouvez pas le concert de votre artiste préféré ?
-owner: Christophe Robillard
-first_published: 2016
+  Collectif d'amoureux du spectacle vivant
+cta: |
+  Reunissez vos amis et programmez un artiste !
+first_published: 2017
 email: christophe@robillard.pro
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.vienschezwam.org" # the base hostname & protocol for your site
