@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: Chez Wam
+title: Viens Chez Wam
 description: |
   Collectif d'amoureux du spectacle vivant
 cta: |
@@ -10,15 +10,16 @@ cta: |
 first_published: 2017
 email: christophe@robillard.pro
 baseurl: "" # the subpath of your site, e.g. /blog
+banner: "banners/dans_les_champs.jpg"
 url: "http://www.vienschezwam.org" # the base hostname & protocol for your site
 collections:
   - collectif
 social:
-  twitter: https://twitter.com/<username>
+  # twitter: https://twitter.com/<username>
   github: https://github.com/krichtof/chez-wam
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  # linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
