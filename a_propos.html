@@ -13,6 +13,7 @@ subtitle: "Chez Wam : quoi ? qui ?"
             <span class="image left">
               <img src="images/collectif/{{ membre.utilisateur }}.png" alt="{{ membre.nom }}" /></span>
               <h5>{{ membre.nom }}</h5>
+              <a href="{{ membre.web }}"><i>{{ membre.role }}</i></a>
               {{ membre.content }}
           </p>
         {% endfor %}

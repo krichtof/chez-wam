@@ -1,6 +1,8 @@
 ---
 nom: Karim Kanal
 utilisateur: karim.kanal
+role: Artiste
+web: http://karimkanal-accompagnement.fr/
 ---
 <p>
   Musicien professionnel et responsable du premier dispositif d'accompagnement de FGO-Barbara (2007-2015), nourri par cette double expérience, j'ai fait le constat suivant :<br>

@@ -1,6 +1,8 @@
 ---
 nom: Gildas Thomas
+role: Artiste
 utilisateur: gildas.thomas
+web: http://www.gildasthomas.com
 ---
 <p>
   A l'heure des AMAP et d'AIRBNB, pourquoi ne pas faire la même chose dans le spectacle vivant?? Le spectateur est d'abord CITOYEN avant d'être "public"...<br>
