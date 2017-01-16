@@ -13,6 +13,10 @@
     {% endif %}
     {% endfor %}
   </ul>
+  <ul class="actions">
+    <li><input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" /></li>
+    <li><input type="submit" value="Laissez votre adresse email" class="special" /></li>
+  </ul>
   <ul class="copyright">
     <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
     {% if site.first_published %}
