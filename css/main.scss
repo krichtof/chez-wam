@@ -1730,6 +1730,16 @@ $banner: '{{ site.banner }}';
 		}
 	}
 
+	#email {
+		@include vendor('display', 'flex');
+		@include vendor('flex-direction', 'column');
+		@include vendor('justify-content', 'center');
+		cursor: default;
+		overflow: hidden;
+		position: relative;
+		text-align: center;
+        padding-top: 4em;
+    }
 /* Footer */
 
 	#footer {
