@@ -106,6 +106,27 @@
 		}
 	}
 
+	#email,
+	.wrapper.style4 {
+		-ms-behavior: url('js/ie/backgroundsize.min.htc');
+
+		&:before {
+			display: none;
+		}
+	}
+
+/* email */
+
+	#email {
+		.more {
+			height: 4em;
+
+			&:after {
+				display: none;
+			}
+		}
+	}
+
 /* Main */
 
 	#main {

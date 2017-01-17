@@ -89,6 +89,42 @@
 		}
 	}
 
+	#email,
+	.wrapper.style4 {
+		background-image: url("../../images/email.jpg");
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		position: relative;
+
+		&:before {
+			background: #000000;
+			content: '';
+			height: 100%;
+			left: 0;
+			opacity: 0.5;
+			position: absolute;
+			top: 0;
+			width: 100%;
+		}
+
+		.inner {
+			position: relative;
+			z-index: 1;
+		}
+	}
+
+/* email */
+
+	#email {
+		@include padding(14em, 0);
+		height: auto;
+
+		&:after {
+			display: none;
+		}
+	}
+
 /* CTA */
 
 	#cta {
