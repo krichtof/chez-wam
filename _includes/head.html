@@ -9,4 +9,22 @@
   <!--[if lte IE 8]><link rel="stylesheet" href="{{ "/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{ "/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Piwik -->
+  <script type="text/javascript">
+  var _paq = _paq || [];
+    _paq.push(["setDomains", ["*.www.vienschezwam.org"]]);
+      _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+          (function() {
+                var u="//178.62.2.109/piwik/";
+                    _paq.push(['setTrackerUrl', u+'piwik.php']);
+                        _paq.push(['setSiteId', 2]);
+                            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+                                  })();
+  </script>
+  <noscript><p><img src="//178.62.2.109/piwik/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+  <!-- End Piwik Code -->
+
 </head>
