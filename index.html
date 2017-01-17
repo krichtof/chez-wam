@@ -6,14 +6,9 @@ layout: landing
 						<div class="inner">
 							<h2>{{ site.title }}</h2>
 							<ul class="actions">
-                <li><a href="/quoi.html" class="button special scrolly">{{ site.cta }}</a></li>
+                <li>{{ site.cta }}</li>
+                <li><a href="/quoi.html" class="button special scrolly">Découvrez comment</a></li>
 							</ul>
-                            <div class="12u$">
- <ul class="actions">
-								<li><input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" /></li>
-								<li><input type="submit" value="Laissez votre adresse email" class="special" /></li>
-</ul>
-                            </div>
 						</div>
-					</section>
                     {% include email.html %}
+					</section>
